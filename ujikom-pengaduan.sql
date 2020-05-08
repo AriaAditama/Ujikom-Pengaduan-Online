@@ -147,7 +147,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`, `username`, `roles`, `no_telp`) VALUES
 (1, 'Administrator', 'admin@gmail.com', NULL, '$2y$10$rLmgz.FyuxU511HthYLX5uJN7.zZhs9l44rbd9ib1n04orUH5p13G', NULL, '2020-05-01 18:31:41', '2020-05-01 18:31:41', 'Admin', 'ADMIN', '0876543621'),
-(2, 'Mahival', 'mahival@gmail.com', NULL, '$2y$10$1CUmQ9msg9ZukPUJ7dZ5leKUC.THCHI2.aMVplyK9wOkSya3tayE2', NULL, '2020-05-01 18:33:26', '2020-05-01 18:33:38', 'daffaquraisy', 'MASYARAKAT', '08765463711'),
+(2, 'Mahival', 'mahival@gmail.com', NULL, '$2y$10$1CUmQ9msg9ZukPUJ7dZ5leKUC.THCHI2.aMVplyK9wOkSya3tayE2', NULL, '2020-05-01 18:33:26', '2020-05-01 18:33:38', 'Mahival', 'MASYARAKAT', '08765463711'),
 (3, 'Aria Aditama', 'aria@gmail.com', NULL, '$2y$10$nSdlj2pj0lkEK7UApqESo.eGFku2T4hhBJgCEPkiSl24BE7GGT7xi', NULL, '2020-05-01 18:34:09', '2020-05-01 18:34:09', 'Auditore', 'PETUGAS', '04375375645');
 
 --
